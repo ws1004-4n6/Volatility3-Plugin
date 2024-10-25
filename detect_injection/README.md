@@ -10,6 +10,7 @@ We will detect more Injections through additional research in the future.
 - Volatility 3 Framework (version. 2.5.2 or higher)
 - Required modules:
     - `pefile`
+    - `colorama`
 
 ## Installation
 To use this plugin, you need to install the following dependencies.

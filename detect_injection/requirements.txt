@@ -1,1 +1,2 @@
 pefile==2024.8.26
+colorama=0.4.6
